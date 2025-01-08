@@ -1,5 +1,5 @@
 #
-# Patch for issue https://github.com/tanersener/mobile-ffmpeg/issues/18
+# Patch for issue https://github.com/getearlybirdapp/mobile-ffmpeg/issues/18
 #
 
 # Required environment variables
@@ -7,7 +7,7 @@
 # BUILT_PRODUCTS_DIR
 # FRAMEWORKS_FOLDER_PATH
 
-echo "Applying patch for https://github.com/tanersener/mobile-ffmpeg/issues/18"
+echo "Applying patch for https://github.com/getearlybirdapp/mobile-ffmpeg/issues/18"
 cd "${BUILT_PRODUCTS_DIR}/${FRAMEWORKS_FOLDER_PATH}"
 
 INFO_PLIST_FILES=$(find . -name Info.plist | grep 'libswresample\|libavfilter\|libavformat\|libavutil\|libswscale\|libavdevice\|libavcodec\|mobileffmpeg')

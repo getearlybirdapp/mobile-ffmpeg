@@ -61,9 +61,9 @@ ext {
 
     libraryDescription = releaseProjectDescription
 
-    siteUrl = 'https://github.com/tanersener/mobile-ffmpeg'
-    issueTrackerUrl = 'https://github.com/tanersener/mobile-ffmpeg/issues'
-    gitUrl = 'https://github.com/tanersener/mobile-ffmpeg.git'
+    siteUrl = 'https://github.com/getearlybirdapp/mobile-ffmpeg'
+    issueTrackerUrl = 'https://github.com/getearlybirdapp/mobile-ffmpeg/issues'
+    gitUrl = 'https://github.com/getearlybirdapp/mobile-ffmpeg.git'
 
     libraryVersion = releaseVersionName
 

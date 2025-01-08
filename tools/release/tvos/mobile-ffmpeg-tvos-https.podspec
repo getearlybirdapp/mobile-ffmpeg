@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     Includes FFmpeg v4.4-dev-416 with gmp v6.2.0 and gnutls v3.6.13 library enabled.
     DESC
 
-    s.homepage          = "https://github.com/tanersener/mobile-ffmpeg"
+    s.homepage          = "https://github.com/getearlybirdapp/mobile-ffmpeg"
 
     s.author            = { "Taner Sener" => "tanersener@gmail.com" }
     s.license           = { :type => "LGPL-3.0", :file => "mobileffmpeg.framework/LICENSE" }
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     s.requires_arc      = true
     s.libraries         = 'z', 'bz2', 'c++', 'iconv'
 
-    s.source            = { :http => "https://github.com/tanersener/mobile-ffmpeg/releases/download/vVERSION/mobile-ffmpeg-https-VERSION-tvos-framework.zip" }
+    s.source            = { :http => "https://github.com/getearlybirdapp/mobile-ffmpeg/releases/download/vVERSION/mobile-ffmpeg-https-VERSION-tvos-framework.zip" }
 
     s.tvos.deployment_target = '9.2'
     s.tvos.frameworks   = 'AudioToolbox','VideoToolbox','CoreMedia'

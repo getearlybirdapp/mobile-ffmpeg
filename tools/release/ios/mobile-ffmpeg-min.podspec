@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     Includes FFmpeg v4.4-dev-416 without any external libraries enabled.
     DESC
 
-    s.homepage          = "https://github.com/tanersener/mobile-ffmpeg"
+    s.homepage          = "https://github.com/getearlybirdapp/mobile-ffmpeg"
 
     s.author            = { "Taner Sener" => "tanersener@gmail.com" }
     s.license           = { :type => "LGPL-3.0", :file => "mobileffmpeg.framework/LICENSE" }
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     s.requires_arc      = true
     s.libraries         = 'z', 'bz2', 'c++', 'iconv'
 
-    s.source            = { :http => "https://github.com/tanersener/mobile-ffmpeg/releases/download/vVERSION/mobile-ffmpeg-min-VERSION-ios-framework.zip" }
+    s.source            = { :http => "https://github.com/getearlybirdapp/mobile-ffmpeg/releases/download/vVERSION/mobile-ffmpeg-min-VERSION-ios-framework.zip" }
 
     s.ios.deployment_target = '9.3'
     s.ios.frameworks    = 'AudioToolbox','AVFoundation','CoreMedia','VideoToolbox'

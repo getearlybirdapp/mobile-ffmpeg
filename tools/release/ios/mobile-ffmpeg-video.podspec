@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     Includes FFmpeg v4.4-dev-416 with fontconfig v2.13.92, freetype v2.10.2, fribidi v1.0.9, kvazaar v2.0.0, libaom v1.0.0-errata1-avif-110, libass v0.14.0, libtheora v1.1.1, libvpx v1.8.2, snappy v1.1.8 and libwebp v1.1.0 libraries enabled.
     DESC
 
-    s.homepage          = "https://github.com/tanersener/mobile-ffmpeg"
+    s.homepage          = "https://github.com/getearlybirdapp/mobile-ffmpeg"
 
     s.author            = { "Taner Sener" => "tanersener@gmail.com" }
     s.license           = { :type => "LGPL-3.0", :file => "mobileffmpeg.framework/LICENSE" }
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
     s.requires_arc      = true
     s.libraries         = 'z', 'bz2', 'c++', 'iconv'
 
-    s.source            = { :http => "https://github.com/tanersener/mobile-ffmpeg/releases/download/vVERSION/mobile-ffmpeg-video-VERSION-ios-framework.zip" }
+    s.source            = { :http => "https://github.com/getearlybirdapp/mobile-ffmpeg/releases/download/vVERSION/mobile-ffmpeg-video-VERSION-ios-framework.zip" }
 
     s.ios.deployment_target = '9.3'
     s.ios.frameworks    = 'AudioToolbox','AVFoundation','CoreMedia','VideoToolbox'

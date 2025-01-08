@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by [FFmpegKit](https://github.com/tanersener/ffmpeg-kit).
+FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by [FFmpegKit](https://github.com/getearlybirdapp/ffmpeg-kit).
 
-<img src="https://github.com/tanersener/mobile-ffmpeg/raw/dev-v3.x/docs/assets/mobile-ffmpeg-logo-v7.png" width="240">
+<img src="https://github.com/getearlybirdapp/mobile-ffmpeg/raw/dev-v3.x/docs/assets/mobile-ffmpeg-logo-v7.png" width="240">
 
 ### 1. Features
 - Includes both `FFmpeg` and `FFprobe`
@@ -35,7 +35,7 @@ FFmpeg for Android, iOS and tvOS. Not maintained anymore. Superseded by [FFmpegK
 
 ### 2. Using
 
-Binaries are available at [Github](https://github.com/tanersener/mobile-ffmpeg/releases), [Maven Central](https://repo1.maven.org/maven2) and [CocoaPods](https://cocoapods.org).
+Binaries are available at [Github](https://github.com/getearlybirdapp/mobile-ffmpeg/releases), [Maven Central](https://repo1.maven.org/maven2) and [CocoaPods](https://cocoapods.org).
 
 #### 2.1 Packages
 
@@ -387,26 +387,26 @@ Exact version number is obtained using `git describe --tags`.
 
 |  MobileFFmpeg Version | FFmpeg Version | Release Date |
 | :----: | :----: |:----: |
-| [4.4](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.4) | 4.4-dev-416 | Jul 25, 2020 |
-| [4.4.LTS](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.4.LTS) | 4.4-dev-416 | Jul 24, 2020 |
-| [4.3.2](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.3.2) | 4.3-dev-2955 | Apr 15, 2020 |
-| [4.3.1](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.3.1) | 4.3-dev-1944 | Jan 13, 2020 |
-| [4.3.1.LTS](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.3.1.LTS) | 4.3-dev-1944 | Jan 13, 2020 |
-| [4.3](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.3) | 4.3-dev-1181 | Oct 27, 2019 |
-| [4.2.2](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.2.2) | 4.2-dev-1824 | July 3, 2019 |
-| [4.2.2.LTS](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.2.2.LTS) | 4.2-dev-1824 | July 3, 2019 |
-| [4.2.1](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.2.1) | 4.2-dev-1156 | Apr 2, 2019 |
-| [4.2](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.2) | 4.2-dev-480 | Jan 3, 2019 |
-| [4.2.LTS](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v4.2.LTS) | 4.2-dev-480 | Jan 3, 2019 |
-| [3.1](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v3.1) | 4.1-10 | Dec 11, 2018 |
-| [3.0](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v3.0) | 4.1-dev-1517 | Oct 25, 2018 |
-| [2.2](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v2.2) | 4.0.3 | Nov 10, 2018 |
-| [2.1.1](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v2.1.1) | 4.0.2 | Sep 19, 2018 |
-| [2.1](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v2.1) | 4.0.2 | Sep 5, 2018 |
-| [2.0](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v2.0) | 4.0.1 | Jun 30, 2018 |
-| [1.2](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v1.2) | 3.4.4 | Aug 30, 2018|
-| [1.1](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v1.1) | 3.4.2 | Jun 18, 2018 |
-| [1.0](https://github.com/tanersener/mobile-ffmpeg/releases/tag/v1.0) | 3.4.2 | Jun 6, 2018 |
+| [4.4](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.4) | 4.4-dev-416 | Jul 25, 2020 |
+| [4.4.LTS](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.4.LTS) | 4.4-dev-416 | Jul 24, 2020 |
+| [4.3.2](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.3.2) | 4.3-dev-2955 | Apr 15, 2020 |
+| [4.3.1](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.3.1) | 4.3-dev-1944 | Jan 13, 2020 |
+| [4.3.1.LTS](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.3.1.LTS) | 4.3-dev-1944 | Jan 13, 2020 |
+| [4.3](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.3) | 4.3-dev-1181 | Oct 27, 2019 |
+| [4.2.2](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.2.2) | 4.2-dev-1824 | July 3, 2019 |
+| [4.2.2.LTS](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.2.2.LTS) | 4.2-dev-1824 | July 3, 2019 |
+| [4.2.1](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.2.1) | 4.2-dev-1156 | Apr 2, 2019 |
+| [4.2](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.2) | 4.2-dev-480 | Jan 3, 2019 |
+| [4.2.LTS](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v4.2.LTS) | 4.2-dev-480 | Jan 3, 2019 |
+| [3.1](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v3.1) | 4.1-10 | Dec 11, 2018 |
+| [3.0](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v3.0) | 4.1-dev-1517 | Oct 25, 2018 |
+| [2.2](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v2.2) | 4.0.3 | Nov 10, 2018 |
+| [2.1.1](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v2.1.1) | 4.0.2 | Sep 19, 2018 |
+| [2.1](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v2.1) | 4.0.2 | Sep 5, 2018 |
+| [2.0](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v2.0) | 4.0.1 | Jun 30, 2018 |
+| [1.2](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v1.2) | 3.4.4 | Aug 30, 2018|
+| [1.1](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v1.1) | 3.4.2 | Jun 18, 2018 |
+| [1.0](https://github.com/getearlybirdapp/mobile-ffmpeg/releases/tag/v1.0) | 3.4.2 | Jun 6, 2018 |
 
 ### 4. LTS Releases
 
@@ -468,21 +468,21 @@ export ANDROID_NDK_ROOT=<Android NDK Path>
 ./android.sh
 ```
 
-<img src="https://github.com/tanersener/mobile-ffmpeg/raw/master/docs/assets/android_custom.gif" width="600">
+<img src="https://github.com/getearlybirdapp/mobile-ffmpeg/raw/master/docs/assets/android_custom.gif" width="600">
 
 ##### 5.2.2 iOS
 ```
 ./ios.sh
 ```
 
-<img src="https://github.com/tanersener/mobile-ffmpeg/raw/master/docs/assets/ios_custom.gif" width="600">
+<img src="https://github.com/getearlybirdapp/mobile-ffmpeg/raw/master/docs/assets/ios_custom.gif" width="600">
 
 ##### 5.2.3 tvOS
 ```
 ./tvos.sh
 ```
 
-<img src="https://github.com/tanersener/mobile-ffmpeg/raw/master/docs/assets/tvos_custom.gif" width="600">
+<img src="https://github.com/getearlybirdapp/mobile-ffmpeg/raw/master/docs/assets/tvos_custom.gif" width="600">
 
 #### 5.3 GPL Support
 It is possible to enable GPL licensed libraries `x264`, `xvidcore` since `v1.1`; `vid.stab`, `x265` since `v2.1` and
@@ -496,7 +496,7 @@ library on the specified mobile platform.
 
 ### 6. Documentation
 
-A more detailed documentation is available at [Wiki](https://github.com/tanersener/mobile-ffmpeg/wiki).
+A more detailed documentation is available at [Wiki](https://github.com/getearlybirdapp/mobile-ffmpeg/wiki).
 
 ### 7. License
 
@@ -517,7 +517,7 @@ In test applications; embedded fonts are licensed under the
 [SIL Open Font License](https://opensource.org/licenses/OFL-1.1), other digital assets are published in the public
 domain.
 
-Please visit [License](https://github.com/tanersener/mobile-ffmpeg/wiki/License) page for the details.
+Please visit [License](https://github.com/getearlybirdapp/mobile-ffmpeg/wiki/License) page for the details.
 
 ### 8. Patents
 
